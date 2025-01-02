@@ -178,7 +178,7 @@ for ( i = 0; i < 10; i++ ) {
     x = randu() * 10.0;
     sigma = randu() * 10.0;
     y = logpdf( x, sigma );
-    console.log( 'x: %d, σ: %d, f(x;σ): %d', x.toFixed( 4 ), sigma.toFixed( 4 ), y.toFixed( 4 ) );
+    console.log( 'x: %d, σ: %d, ln(f(x;σ)): %d', x.toFixed( 4 ), sigma.toFixed( 4 ), y.toFixed( 4 ) );
 }
 ```
 
@@ -315,7 +315,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
