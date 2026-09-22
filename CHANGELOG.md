@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-09-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fb22302`](https://github.com/stdlib-js/stdlib/commit/fb22302cd23bfc9edab5e17d428849384b79cf6d) - **test:** migrate `stats/base/dists/rayleigh/logpdf` to ULP-based assertions [(#15409)](https://github.com/stdlib-js/stdlib/pull/15409) _(by Aryan kumar, Athan Reines)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`b517ce1`](https://github.com/stdlib-js/stdlib/commit/b517ce16f647ffe2270573dff57755fe7ba69027) - **docs:** propagate description and example fixes in `stats/base/dists/*` [(#12132)](https://github.com/stdlib-js/stdlib/pull/12132) _(by Philipp Burckhardt)_
 
@@ -25,8 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
